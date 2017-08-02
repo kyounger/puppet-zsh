@@ -1,4 +1,4 @@
-# ZSH Puppet Module for Boxen
+# ZSH Puppet Module for Boxen blah
 
 [![Build Status](https://travis-ci.org/boxen/puppet-zsh.png?branch=master)](https://travis-ci.org/boxen/puppet-zsh)
 
